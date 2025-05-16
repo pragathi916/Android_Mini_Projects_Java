@@ -10,7 +10,7 @@ This repository contains a collection of beginner-friendly Android Studio mini-p
 |------------------------|------------------------------------------|
 | `ActivityLifeCycle`    | Demonstrates Android activity lifecycle methods |
 | `BatteryLife`          | Displays current battery status               |
-| `Calci`                | A simple calculator app                      |
+| `Calculator`                | A simple calculator app                      |
 | `Camera`               | Launches the camera and captures an image     |
 | `CheckBox`             | Demonstrates checkbox usage                  |
 | `ContextMenu`          | Implements a context menu                    |
